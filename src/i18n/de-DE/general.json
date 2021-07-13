@@ -1,0 +1,24 @@
+{
+  "smartling" : {
+    "entity_escaping" : "true",
+    "variants_enabled" : "true",
+    "translate_paths" : [
+    {
+      "key" : "{*}/translation",
+      "path" : "*/translation",
+      "instruction" : "*/translation-note"
+    }]
+  },
+  "requiredError" : "Required",
+  "customerServicesPhoneNumber" : {
+    "tel" : "02039013488",
+    "text" : "020 3901 3488"
+  },
+  "yes" : {
+    "translation" : "Ja",
+    "translation-note" : "Yes means yes"
+  },
+  "no" : "No",
+  "test-key" : "Test key",
+  "test-key2" : "create a manual PR from smartling after feature branch is deleted"
+}
